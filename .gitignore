@@ -3,3 +3,5 @@ allure-report
 allure-results
 HEAD
 reports
+!tests/helper/command.js
+!tests/pageobjects/login/login.page.js

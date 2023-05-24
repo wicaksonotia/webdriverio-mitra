@@ -11,4 +11,4 @@ Feature: 02. Proses Order (Dalam Pengiriman)
 
     Examples:
       | namaToko        |
-      | Toko Hanifah 25 |
+      | TOKO WIRATANI |

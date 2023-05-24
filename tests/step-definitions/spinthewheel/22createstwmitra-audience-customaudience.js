@@ -179,7 +179,7 @@ Then (/^System should be able to update data in target audience$/, async () => {
 When (/^I click checkbox and update audience in custom audience$/, async () => {
     await mitraSuperPuterCreatePage.clearValueinSearchBox()
     //await mitraSuperPuterCreatePage.cbPelanggan1()
-    await mitraSuperPuterCreatePage.cbPelanggan10()
+    // await mitraSuperPuterCreatePage.cbPelanggan10()
     await mitraSuperPuterCreatePage.updateAudience()
 });
 

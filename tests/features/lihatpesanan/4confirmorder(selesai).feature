@@ -11,4 +11,4 @@ Feature: 04. Confirm Order (Selesai)
 
     Examples:
       | namaToko        |
-      | Toko Hanifah 25 |
+      | TOKO WIRATANI |

@@ -11,4 +11,4 @@ Feature: 01. Revise Quantity
 
     Examples:
       | namaToko        |
-      | Toko Hanifah 25 |
+      | TOKO WIRATANI |
