@@ -11,4 +11,4 @@ Feature: 03. Proses Order (Diproses - Dalam Pengiriman)
 
     Examples:
       | namaToko        |
-      | Toko Hanifah 25 |
+      | TOKO WIRATANI |

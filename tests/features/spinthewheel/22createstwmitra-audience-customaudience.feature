@@ -111,5 +111,5 @@ Scenario Outline: As a user, I can create SWT mitra Custom Audience
     
 Examples:
     | nama_pemilik      | nama_toko   | nomor_telpon   | nama_program            | total_budget | minimum_nilai_transaksi | limit_spin_keseluruhan | minimum_frekuensi_belanja | maksimal_frekuensi_reward | poin1 | poin2 | poin3 | poin4 | poin5 | kesempatan1 | kesempatan2 | kesempatan3 | kesempatan4 | kesempatan5 |
-    | kasiyatikasiyati  | Toko Kim QA | +6285841128849 | STW CUSTOM AUDIENCE     | 200000       |  400                    | 40                     | 1                         | 2                         | 5     | 4     | 3     | 2     | 1     | 30          | 25          | 20          | 15          | 10          |
+    | kasiyatikasiyati  | Toko Kim QA | +628113600488 | STW CUSTOM AUDIENCE     | 200000       |  400                    | 40                     | 1                         | 2                         | 5     | 4     | 3     | 2     | 1     | 30          | 25          | 20          | 15          | 10          |
     
